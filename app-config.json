@@ -1,0 +1,18 @@
+{
+    "logLevel": "Error",
+    "proxies": [
+      {
+        "appNames": 
+        [ 
+          "C:\\ProgramData\\FAForever\\bin\\ForgedAlliance.exe",
+          "C:\\Program Files\\FAF Client\\jre\\bin\\java.exe",
+          "C:\\Program Files\\FAF Client\\jre\bin\\javaw.exe",
+          "C:\\Program Files\\FAF Client\\faf-client.exe"
+        ],
+        "socks5ProxyEndpoint": "45.89.231.111:64273",
+        "username": "ADWdN2Bffr",
+        "password": "7ve1v1z9h",
+        "supportedProtocols": ["TCP", "UDP"]
+      }
+    ]
+}
