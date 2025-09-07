@@ -42,7 +42,9 @@ ProxiFyre.exe
 2. Открыть его с помощью блокнота
 ![app-config](https://raw.githubusercontent.com/anden-t/FAF-proxy/refs/heads/main/images/app-config-tutorial.png "Настройка app-config.json")
 3. Проверить, где установлен FAF - если в C:\Program Files - менять пути не надо, если в другой папке, надо сменить - идете в нужную папку, выбираете EXE и кликаете ПКМ с зажатым SHIFT - ищете пункт "Скопировать как путь". Меняете в файле, не забывайте о запятых между строками. Обратный слеш дублируем (вместо "C:\Program Files" должно быть "C:\\\\Program Files")
-4. Покупаем прокси, вводим его данные в файл. IP и порт через двоеточие, логин и пароль (если есть) вводим в соответсвующие строки ![proxy](https://raw.githubusercontent.com/anden-t/FAF-proxy/refs/heads/main/images/proxy.png)
+4. Покупаем прокси, вводим его данные в файл. IP и порт через двоеточие, логин и пароль (если есть) вводим в соответсвующие строки
+
+![proxy](https://raw.githubusercontent.com/anden-t/FAF-proxy/refs/heads/main/images/proxy.png)
 5. Сохраняем файл и закрываем
 
 # Управление
